@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="my_id" type="id" />  <!-- Correct: Empty item -->
+    <item name="another_id" type="id" />  <!-- Correct: Empty item -->
+    <item name="image_view_id" type="id">@id/imageView</item>  <!-- Correct: Reference to another resource -->
+    <item name="button" type="id" />
+</resources>
